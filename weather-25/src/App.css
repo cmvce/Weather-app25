@@ -47,7 +47,10 @@
 .formBox {
   text-align: center;
 }
-
+.container-box{
+  margin-top: 60px;
+  
+}
 .searchBox{
   padding: 20px;
   width: 60%;
