@@ -9,7 +9,7 @@ function Weather(props) {
  
  const [city, setCity] = useState("");
 const [weather, setWeather] = useState({});
-  
+
 
   function showWeather(response) {
         setWeather({
